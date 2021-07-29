@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DemoMain.iml" filepath="$PROJECT_DIR$/DemoMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLoop.iml" filepath="$PROJECT_DIR$/JavaLoop.iml" />
     </modules>
   </component>
 </project>
